@@ -46,34 +46,34 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/nvkenn_'
-global.sgh = 'https://github.com/nvhitori'
-global.sgc = 'https://chat.whatsapp.com/KL2YTdMq2np6QIhas42RCa'
+global.sig = 'https://www.instagram.com/_Fabri115'
+global.sgh = 'https://github.com/fabriziodee'
+global.sgc = 'https://chat.whatsapp.com/CICSIqMkjlhHHoiDsk2Vqw'
 global.sdc = " "
 global.snh = 'https://xhitori.my.id'
 
 /*============== PAYMENT ==============*/
-global.pdana = '082125276167'
+global.pdana = '393518398856'
 global.povo = '_'
 global.pgopay = '_'
-global.ppulsa = '082125276167'
-global.ppulsa2 = '082125276167'
+global.ppulsa = '393518398856'
+global.ppulsa2 = '393518398856'
 global.psaweria = 'https://saweria.co/nvkenn'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281323870860'
-global.nomorown = '6282125276167'
+global.nomorbot = '393518398856'
+global.nomorown = '393518398856'
 global.namebot = 'XHITORI'
 global.nameown = 'V4LL'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282125276167', 'V4LL', true]
+  ['393518398856', 'V4LL', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = [] // Want some help?
-global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.mods = ['393518398856'] // Want some help?
+global.prems = ['393518398856'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 global.xkey = 'APIKEYMU'
 /*============== API ==============*/
@@ -113,12 +113,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 X H 1 T O R I シ」' //Main Watermark
-global.wm2 = '𝐗𝐇𝐈𝐓𝐎𝐑𝐈'
-global.wm3 = '❖ ʜɪᴛᴏʀɪ'
-global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
-global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '✨┊ XH1TORI '
+global.wm = '                「 SUPERFABRI シ」' //Main Watermark
+global.wm2 = 'SUPERFABRIBOT'
+global.wm3 = '❖ SUPERFABRI'
+global.botdate = `⫹⫺ 𝗗ata: ${week} ${date}`
+global.bottime = `Ora: ${wktuwib}`
+global.titlebot = '✨┊ SuperFabri '
 global.author = global.wm
 
 
@@ -171,8 +171,8 @@ global.htjava = '𔔮'   //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'XH1TORI'
-global.stickauth = `シ`
+global.stickpack = 'SUPERFABRIBOT'
+global.stickauth = `SFシ`
 
 global.multiplier = 38 // The higher, The harder levelup
 
