@@ -53,27 +53,27 @@ global.sdc = " "
 global.snh = 'https://xhitori.my.id'
 
 /*============== PAYMENT ==============*/
-global.pdana = '393518398856'
+global.pdana = '16604647607'
 global.povo = '_'
 global.pgopay = '_'
-global.ppulsa = '393518398856'
-global.ppulsa2 = '393518398856'
+global.ppulsa = '16604647607'
+global.ppulsa2 = '16604647607'
 global.psaweria = 'https://saweria.co/nvkenn'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '393518398856'
-global.nomorown = '393518398856'
+global.nomorbot = '16604647607'
+global.nomorown = '16604647607'
 global.namebot = 'XHITORI'
 global.nameown = 'V4LL'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['393518398856', 'V4LL', true]
+  ['16604647607', 'V4LL', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = ['393518398856'] // Want some help?
-global.prems = ['393518398856'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.mods = ['16604647607'] // Want some help?
+global.prems = ['16604647607'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 global.xkey = 'APIKEYMU'
 /*============== API ==============*/
